@@ -1,2 +1,4 @@
-# lab-6
-This repository contains the starter files for the Lab 6 assignment.
+# Lab 6
+
+## Objective
+Using JavaScript and the provided data file, dynamically create an emoji gallery.
